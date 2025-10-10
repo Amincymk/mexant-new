@@ -5,7 +5,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .main {
-  background-image: url(/images/slide-01.jpg);
+  background-image: url("../images/slide-01.jpg");
   background-position: center;
   background-size: cover;
   height: 100vh;
