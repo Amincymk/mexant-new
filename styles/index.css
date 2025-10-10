@@ -122,7 +122,7 @@
   margin-bottom: 10px;
 }
 .section-3 {
-  background-image: url(/images/cta-bg.jpg);
+  background-image: url("../images/cta-bg.jpg");
   background-position: fixed;
   background-size: cover;
   height: 30vh;
@@ -238,7 +238,7 @@ a {
 /* end of section 4 */
 
   .section-5 .calculator{
-    background-image: url(/images/calculator-bg.jpg);
+    background-image: url("../images/calculator-bg.jpg");
     background-position: fixed;
     background-size: cover;
     height: 80vh;
@@ -426,7 +426,7 @@ margin-top: 80px;
   }
 
   .main {
-    background-image: url(/images/slide-01.jpg);
+    background-image: url("../images/slide-01.jpg");
     background-position: center;
     background-size: cover;
     height: 100vh;
