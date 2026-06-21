@@ -283,12 +283,17 @@ margin-top: 80px;
   
 }
 .name input{
-  display: flex;
+  
   padding: 5px 30px;
+  color: #111;
 
 }
-.name{display: flex;
-  
+.name input::placeholder{
+  text-align: left;
+}
+.name{
+  display: flex;
+  justify-content: space-between;
 }
 .button{
   background-color: #c2532ac8;
